@@ -1,0 +1,3629 @@
+{
+  "settings": {
+    "name": "You Marketing Site",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#41a85f",
+        "secondaryColor": "#41a85f",
+        "successColor": "#41a85f",
+        "infoColor": "#bfcecb",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#2e2e2e",
+        "#232323",
+        "#8d8d8d",
+        "#bfcecb"
+      ]
+    },
+    "siteFonts": [],
+    "versionFirst": "4.7.6",
+    "uniqCompNum": 70,
+    "versionPublish": "4.12.2",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://www.youmarketingsite.com",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "@PROJECT_PATH@/assets/images/vect-2-128x85.png",
+    "noImageResize": "",
+    "sitemapSwitcher": "on",
+    "imageResize": true
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "Diseños de Sitios Web Profesionales y Potentes Enfocados a Buenas Estrategias de Posicionamiento, Mercado y productividad para Organizaciones, Empresas e Instituciones ",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1b1b1b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#232323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#232323",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"QuienesSomos.html\">Quienes Somos</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\" aria-expanded=\"false\">Nuestros Servicios</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Empleo.html\">Empleo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\">Contactenos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.facebook.com/youmarketingsite/\" target=\"_blank\">Facebook</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vectb-193x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">You Marketing Site</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": "3",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1220.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Diseño de Sitios Web",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Diseño web estrategico y con el mejor pocisionamiento en Internet",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Servicios.html\" data-toolbar=\"-mbrBtnMove\">Mas Informacion</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Contactenos.html\" data-toolbar=\"-mbrBtnMove\">Contactenos</a>",
+                "overlayColor": "#232323",
+                "overlayOpacity": "0.5"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20170926163842-gettyimages-543082622-1300x867.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Social Manager",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Administracion y creacion de contenido para tu Redes Sociales",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"Servicios.html\" data-toolbar=\"-mbrBtnMove\">Mas Informacion</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Contactenos.html\" data-toolbar=\"-mbrBtnMove\">Contactenos</a>",
+                "overlayColor": "#232323",
+                "overlayOpacity": "0.5"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/diseno-grafico-2000x1333.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Impresion Publicitaria",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Diseño e impresion de Material publicitario - Camisas, tarjetas de presentacion, publicidad y carnets para tu empresa",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"Servicios.html\" data-toolbar=\"-mbrBtnMove\">Mas Informacion</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Contactenos.html\" data-toolbar=\"-mbrBtnMove\">Contactenos</a>",
+                "overlayOpacity": "0.5",
+                "overlayColor": "#232323"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/streaming-featured-1920x1080.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Radio y TV Streaming",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Plataformas para transmitir en vivo RADIO o TV Online",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"Servicios.html\" data-toolbar=\"-mbrBtnMove\">Mas Informacion</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Contactenos.html\" data-toolbar=\"-mbrBtnMove\">Contactenos</a>",
+                "overlayColor": "#232323"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-1",
+          "_styles": {
+            "H2": {
+              "text-align": "center",
+              "font-size": "46px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "54",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/pagina-web-slider1-1400x906.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Te ofrecemos la mejor Estrategia Digital",
+          "text": "Tu mejor opcion en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en internet, ademas de brindarte soporte para tus clientes y mienbros dentro tu empresa, organizaciòn e institución<br><br><b>-Diseño de Sitios Web y Grafico</b><br><b>-Administracion de Redes Sociales</b><br><b>-Correo Electronico Empresarial</b><br><b>-Material Impreso Publicitario</b><br><b>-Tv y Radio Online Streaming</b><br><b>-Edicion Multimedia - Videos</b><b><br></b><br>Conoce mas acerca de nuestros servicio y realiza tu cotizacion sin costo o si lo prefieres te visitamos hasta Tu Empresa,",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"Servicios.html\" data-toolbar=\"-mbrBtnMove\">Nuestros Servicios</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-4",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left",
+              "font-size": "22px"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "13px"
+            }
+          }
+        },
+        {
+          "_inherit": "features3",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7"
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "drag-n-drop2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": "100",
+              "color": "#41a85f"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": "100",
+              "color": "#41a85f"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "pencil",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": "100",
+              "color": "#41a85f"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": "100",
+              "color": "#41a85f"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title1": "Diseños Profesionales",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Te ayudamos a darle el mejor diseño a tu sitio web ademas de la linea de diseño en tus redes sociales.",
+          "title2": "Sitios Web Multiplataforma",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Sitios web auto-adaptables a diversidad de dispositivos, facil, rapido, y todo incluido dentro de tu sitio web .",
+          "title3": "Tomamos en cuenta tu opinión",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Para poder plasmar la idea de nuestros clientes nos reunimos durante la creacion y estragia de marketing.",
+          "title4": "Precios Accesibles y Competitivos",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Poseemos los mejores opciones calidad/precio en el mercado ademas de mejorar ofertas de la competencia.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features6",
+          "_anchor": "features6-1p",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "H4": {
+              "color": "#000000",
+              "font-size": "19px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "Nuestros Ultimos Proyectos",
+          "meta": "Produciendo y Diseñando Tu Marca",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1x"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1-1-100x100.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2-100x100.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/3-100x100.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/4-100x100.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "INTECAP EL SALVADOR",
+          "subtitle1": "Instituto Tecnico de Capacitaciones",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "CETECAP EL SALVADOR",
+          "subtitle2": "Centro Tecnico de Capacitaciones",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "AGASAL EL SALVADOR",
+          "subtitle3": "Academia de Gastronomia Salvadoreña",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "DRVICMAN MINISTRIES",
+          "subtitle4": "Ministerio en EEUU con mas de 18 Iglesias",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1w"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#232323",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vectb-265x176.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "whatsapp",
+              "family": "socicon",
+              "active": true,
+              "size": "25",
+              "color": "#41a85f"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "socicon",
+              "active": true,
+              "size": "25",
+              "color": "#2969b0"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "outlook",
+              "family": "socicon",
+              "active": true,
+              "size": "25",
+              "color": "#fac51c"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span></a>",
+          "title1": "Mapa del Sitio",
+          "text1": "<b>You Marketing Site</b><br>Produciendo y Diseñando Tu Marca",
+          "text2": "+503-2292-1646",
+          "text3": "<a href=\"https://www.facebook.com/youmarketingsite/\" target=\"_blank\" class=\"text-info\">@youmarketingsite</a>",
+          "text4": "<a href=\"mailto:info@youmarketingsite.com\" class=\"text-info\">info@youmarketingsite.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-white\">Home</a></li><li><a href=\"Servicios.html\" class=\"text-white\">Nuestros Servicios</a></li><li><a href=\"QuienesSomos.html\" class=\"text-white\">Quienes Somos</a></li><li><a href=\"Empleo.html\" class=\"text-white\">Empleo</a></li><li><a href=\"Contactenos.html\" class=\"text-white\">Contactenos</a></li><li><a href=\"https://mail.zoho.com/biz/customlogin?rd=youmarketingsite.com\" target=\"_blank\" class=\"text-white\">Inicio de Sesion</a></li>",
+          "text6": "<b>Contactos</b><br>Intenacional: +1 (201)703-3091&nbsp;<br>Whatsapp: +503 2292-1646<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Direccion&nbsp;</span></font><br>101040230<br>San Salvador, El Salvador<br><br><b>Soporte:&nbsp;</b>ceo@youmarketingsite.com",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@youmarketingsite.com",
+            "alerts": {
+              "success": "Gracias por Escribirnos Nuestro Equipo se pondra en contacto contigo proximamente, Feliz Dia!!!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#41a85f"
+            },
+            "STRONG": {
+              "color": "#41a85f"
+            },
+            "LI": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            },
+            ".list-group-text": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".list-group-text B": {
+              "color": "#41a85f",
+              "font-size": "14px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "B": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts3-b"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 You Marketing Site. <a href=\"TC.html\">Terminos y Condiciones</a><b>/</b><a href=\"PPW.html\">Politica de Privacidad</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-v"
+        }
+      ]
+    },
+    "PPW.html": {
+      "settings": {
+        "meta_descr": "Diseños de Sitios Web Profesionales y Potentes Enfocados a Buenas Estrategias de Posicionamiento, Mercado y productividad para Organizaciones, Empresas e Instituciones ",
+        "title": "Politica de Privacidad",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1b1b1b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#232323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#232323",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"QuienesSomos.html\">Quienes Somos</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\" aria-expanded=\"false\">Nuestros Servicios</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Empleo.html\">Empleo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\">Contactenos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.facebook.com/youmarketingsite/\" target=\"_blank\">Facebook</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vectb-193x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">You Marketing Site</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-17"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            },
+            ".lead": {
+              "text-align": "left"
+            },
+            ".lead DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#232323",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Politica de Privacidad",
+          "text": "<p><span style=\"font-size: 1.07rem;\">El presente Política de Privacidad establece los términos en que You Marketing Site usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su sitio web. Esta compañía está comprometida con la seguridad de los datos de sus usuarios. Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. Sin embargo esta Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar continuamente esta página para asegurarse que está de acuerdo con dichos cambios.&nbsp;</span><br></p><p></p><div>\n</div><div><b>Información que es recogida\n</b></div><div>\n</div><div>Nuestro sitio web podrá recoger información personal por ejemplo: Nombre, información de contacto como su dirección de correo electrónica e información demográfica. Así mismo cuando sea necesario podrá ser requerida información específica para procesar algún pedido o realizar una entrega o facturación.</div><div><br></div><div>\n</div><div>\n</div><div><b>Uso de la información recogida\n</b></div><div>\n</div><div>Nuestro sitio web emplea la información con el fin de proporcionar el mejor servicio posible, particularmente para mantener un registro de usuarios, de pedidos en caso que aplique, y mejorar nuestros productos y servicios. Es posible que sean enviados correos electrónicos periódicamente a través de nuestro sitio con ofertas especiales, nuevos productos y otra información publicitaria que consideremos relevante para usted o que pueda brindarle algún beneficio, estos correos electrónicos serán enviados a la dirección que usted proporcione y podrán ser cancelados en cualquier momento.</div><div><br></div><div>\n</div><div>\n</div><div>You Marketing Site está altamente comprometido para cumplir con el compromiso de mantener su información segura. Usamos los sistemas más avanzados y los actualizamos constantemente para asegurarnos que no exista ningún acceso no autorizado.\n</div><div>\n</div><div>Cookies</div><div><br></div><div>\n</div><div>\n</div><div>Una cookie se refiere a un fichero que es enviado con la finalidad de solicitar permiso para almacenarse en su ordenador, al aceptar dicho fichero se crea y la cookie sirve entonces para tener información respecto al tráfico web, y también facilita las futuras visitas a una web recurrente. Otra función que tienen las cookies es que con ellas las web pueden reconocerte individualmente y por tanto brindarte el mejor servicio personalizado de su web.\n</div><div>\n</div><div>Nuestro sitio web emplea las cookies para poder identificar las páginas que son visitadas y su frecuencia. Esta información es empleada únicamente para análisis estadístico y después la información se elimina de forma permanente. Usted puede eliminar las cookies en cualquier momento desde su ordenador. Sin embargo las cookies ayudan a proporcionar un mejor servicio de los sitios web, estás no dan acceso a información de su ordenador ni de usted, a menos de que usted así lo quiera y la proporcione directamente. Usted puede aceptar o negar el uso de cookies, sin embargo la mayoría de navegadores aceptan cookies automáticamente pues sirve para tener un mejor servicio web. También usted puede cambiar la configuración de su ordenador para declinar las cookies. Si se declinan es posible que no pueda utilizar algunos de nuestros servicios.</div><div><br></div><div>\n</div><div>\n</div><div><b>Enlaces a Terceros\n</b></div><div>\n</div><div>Este sitio web pudiera contener en laces a otros sitios que pudieran ser de su interés. Una vez que usted de clic en estos enlaces y abandone nuestra página, ya no tenemos control sobre al sitio al que es redirigido y por lo tanto no somos responsables de los términos o privacidad ni de la protección de sus datos en esos otros sitios terceros. Dichos sitios están sujetos a sus propias políticas de privacidad por lo cual es recomendable que los consulte para confirmar que usted está de acuerdo con estas.</div><div><br></div><div>\n</div><div>\n</div><div><b>Control de su información personal\n</b></div><div>\n</div><div>En cualquier momento usted puede restringir la recopilación o el uso de la información personal que es proporcionada a nuestro sitio web. Cada vez que se le solicite rellenar un formulario, como el de alta de usuario, puede marcar o desmarcar la opción de recibir información por correo electrónico. En caso de que haya marcado la opción de recibir nuestro boletín o publicidad usted puede cancelarla en cualquier momento.\n</div><div>\n</div><div>Esta compañía no venderá, cederá ni distribuirá la información personal que es recopilada sin su consentimiento, salvo que sea requerido por un juez con un orden judicial.\n</div><div>\n</div><div>You Marketing Site Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento.</div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Contactenos.html\" data-toolbar=\"-mbrBtnMove\">Contactenos para mayor informacion</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-19"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 You Marketing Site. <a href=\"TC.html\">Terminos y Condiciones</a><b>/</b><a href=\"PPW.html\">Politica de Privacidad</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-v"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#232323",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vectb-265x176.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "whatsapp",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#41a85f"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "facebook",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#2969b0"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "outlook",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#fac51c"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span></a>",
+          "title1": "Mapa del Sitio",
+          "text1": "<b>You Marketing Site</b><br>Produciendo y Diseñando Tu Marca",
+          "text2": "+503-2292-1646",
+          "text3": "<a href=\"https://www.facebook.com/youmarketingsite/\" target=\"_blank\" class=\"text-info\">@youmarketingsite</a>",
+          "text4": "<a href=\"mailto:info@youmarketingsite.com\" class=\"text-info\">info@youmarketingsite.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-white\">Home</a></li><li><a href=\"Servicios.html\" class=\"text-white\">Nuestros Servicios</a></li><li><a href=\"QuienesSomos.html\" class=\"text-white\">Quienes Somos</a></li><li><a href=\"Empleo.html\" class=\"text-white\">Empleo</a></li><li><a href=\"Contactenos.html\" class=\"text-white\">Contactenos</a></li><li><a href=\"https://mail.zoho.com/biz/customlogin?rd=youmarketingsite.com\" target=\"_blank\" class=\"text-white\">Inicio de Sesion</a></li>",
+          "text6": "<b>Contactos</b><br>Intenacional: +1 (201)703-3091&nbsp;<br>Whatsapp: +503 2292-1646<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Direccion&nbsp;</span></font><br>101040230<br>San Salvador, El Salvador<br><br><b>Soporte:&nbsp;</b>ceo@youmarketingsite.com",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@youmarketingsite.com",
+            "alerts": {
+              "success": "Gracias por Escribirnos Nuestro Equipo se pondra en contacto contigo proximamente, Feliz Dia!!!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#41a85f"
+            },
+            "STRONG": {
+              "color": "#41a85f"
+            },
+            "LI": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            },
+            ".list-group-text": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".list-group-text B": {
+              "color": "#41a85f",
+              "font-size": "14px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "B": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts3-18"
+        }
+      ]
+    },
+    "TC.html": {
+      "settings": {
+        "meta_descr": "Diseños de Sitios Web Profesionales y Potentes Enfocados a Buenas Estrategias de Posicionamiento, Mercado y productividad para Organizaciones, Empresas e Instituciones ",
+        "title": "Terminos y Condiciones",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1b1b1b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#232323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#232323",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"QuienesSomos.html\">Quienes Somos</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\" aria-expanded=\"false\">Nuestros Servicios</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Empleo.html\">Empleo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\">Contactenos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.facebook.com/youmarketingsite/\" target=\"_blank\">Facebook</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vectb-193x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">You Marketing Site</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-14"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead": {
+              "color": "#f3c649"
+            },
+            ".lead DIV": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#232323",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Terminos y Condiciones",
+          "text": "<p><span style=\"font-size: 1.07rem;\"><b>INFORMACIÓN RELEVANTE&nbsp;</b></span></p><p><span style=\"font-size: 1.07rem; text-align: left;\">Es requisito necesario para la adquisición de los productos que se ofrecen en este sitio, que lea y acepte los siguientes Términos y Condiciones que a continuación se redactan. El uso de nuestros servicios así como la compra de nuestros productos implicará que usted ha leído y aceptado los Términos y Condiciones de Uso en el presente documento. Todas los productos que son ofrecidos por nuestro sitio web pudieran ser creadas, cobradas, enviadas o presentadas por una página web tercera y en tal caso estarían sujetas a sus propios Términos y Condiciones. En algunos casos, para adquirir un producto, será necesario el registro por parte del usuario, con ingreso de datos personales fidedignos y definición de una contraseña.&nbsp;</span></p><div><span style=\"font-size: 1.07rem;\"><br></span></div><div>\n</div><div>El usuario puede elegir y cambiar la clave para su acceso de administración de la cuenta en cualquier momento, en caso de que se haya registrado y que sea necesario para la compra de alguno de nuestros productos. www.youmarketingsite.com no asume la responsabilidad en caso de que entregue dicha clave a terceros.</div><div><br></div><div>\n</div><div>\n</div><div>Todas las compras y transacciones que se lleven a cabo por medio de este sitio web, están sujetas a un proceso de confirmación y verificación, el cual podría incluir la verificación del stock y disponibilidad de producto, validación de la forma de pago, validación de la factura (en caso de existir) y el cumplimiento de las condiciones requeridas por el medio de pago seleccionado. En algunos casos puede que se requiera una verificación por medio de correo electrónico.</div><div><br></div><div>\n</div><div>\n</div><div>Los precios de los productos ofrecidos en esta Tienda Online es válido solamente en las compras realizadas en este sitio web.</div><div><br></div><div>\n</div><div>\n</div><div><b>LICENCIA\n</b></div><div>\n</div><div>You Marketing Site a través de su sitio web concede una licencia para que los usuarios utilicen los productos que son vendidos en este sitio web de acuerdo a los Términos y Condiciones que se describen en este documento.</div><div><br></div><div>\n</div><div>\n</div><div><b>USO NO AUTORIZADO\n</b></div><div>\n</div><div>En caso de que aplique (para venta de software, templetes, u otro producto de diseño y programación) usted no puede colocar uno de nuestros productos, modificado o sin modificar, en un CD, sitio web o ningún otro medio y ofrecerlos para la redistribución o la reventa de ningún tipo.</div><div><br></div><div>\n</div><div>\n</div><div><b>PROPIEDAD\n</b></div><div>\n</div><div>Usted no puede declarar propiedad intelectual o exclusiva a ninguno de nuestros productos, modificado o sin modificar. Todos los productos son propiedad de los proveedores del contenido. En caso de que no se especifique lo contrario, nuestros productos se proporcionan sin ningún tipo de garantía, expresa o implícita. En ningún esta compañía será responsables de ningún daño incluyendo, pero no limitado a, daños directos, indirectos, especiales, fortuitos o consecuentes u otras pérdidas resultantes del uso o de la imposibilidad de utilizar nuestros productos.</div><div><br></div><div>\n</div><div>\n</div><div><b>POLÍTICA DE REEMBOLSO Y GARANTÍA\n</b></div><div>\n</div><div>En el caso de productos que sean mercancías irrevocables no-tangibles, no realizamos reembolsos después de que se envíe el producto, usted tiene la responsabilidad de entender antes de comprarlo. Le pedimos que lea cuidadosamente antes de comprarlo. Hacemos solamente excepciones con esta regla cuando la descripción no se ajusta al producto. Hay algunos productos que pudieran tener garantía y posibilidad de reembolso pero este será especificado al comprar el producto. En tales casos la garantía solo cubrirá fallas de fábrica y sólo se hará efectiva cuando el producto se haya usado correctamente. La garantía no cubre averías o daños ocasionados por uso indebido. Los términos de la garantía están asociados a fallas de fabricación y funcionamiento en condiciones normales de los productos y sólo se harán efectivos estos términos si el equipo ha sido usado correctamente. Esto incluye:\n</div><div>\n</div><div>– De acuerdo a las especificaciones técnicas indicadas para cada producto.\n</div><div>\n</div><div>– En condiciones ambientales acorde con las especificaciones indicadas por el fabricante.\n</div><div>\n</div><div>– En uso específico para la función con que fue diseñado de fábrica.\n</div><div>\n</div><div>– En condiciones de operación eléctricas acorde con las especificaciones y tolerancias indicadas.</div><div><br></div><div><b>SERVICIOS Y PRODUCTOS EN PROMOCION (Contrato Vigente o Indefinido)</b></div><div>Todos los servcios brindados y detallados acontinuacion:</div><div><b>-Sitios Web (Diseño y Construccion)</b></div><div><b>-Dominios de Internet</b></div><div><b>-Artes y lineas Grafica</b></div><div>Brindados con promociones de bajo costo estaran sujetos a pagar de 6 a 12 meses de mantenimiento de servicio, de lo contrario si el cliente desea retirarse debera de cancelar el diseño y construccion del servicio contratado de acuerdo al paquete en nuestro <a href=\"assets/files/Catalogo de Cotizaciones.pdf\" target=\"_blank\">catalogo de servicio</a>, no aplica si el cliente a firmado acuerdo mutuo y condiciones diferentes en contrato fisico.</div><div><br></div><div>La presente clapsula no es valida si el cliene ya posee mas de 6 a 12 meses como cliente activo, segun acuerdo mutuo y firmado por el cliente, de esta manera el cliente puede retirarse y deligarse sin costo alguno sobre los servicios y productos mencionados al inicio.</div><div><br></div><div>\n</div><div>\n</div><div><b>COMPROBACIÓN ANTIFRAUDE\n</b></div><div>\n</div><div>La compra del cliente puede ser aplazada para la comprobación antifraude. También puede ser suspendida por más tiempo para una investigación más rigurosa, para evitar transacciones fraudulentas.</div><div><br></div><div>\n</div><div>\n</div><div><b>PRIVACIDAD\n</b></div><div>\n</div><div>Este sitio web www.youmarketingsite.com garantiza que la información personal que usted envía cuenta con la seguridad necesaria. Los datos ingresados por usuario o en el caso de requerir una validación de los pedidos no serán entregados a terceros, salvo que deba ser revelada en cumplimiento a una orden judicial o requerimientos legales.\n</div><div>\n</div><div>La suscripción a boletines de correos electrónicos publicitarios es voluntaria y podría ser seleccionada al momento de crear su cuenta.\n</div><div>\n</div><div>You Marketing Site reserva los derechos de cambiar o de modificar estos términos sin previo aviso.</div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Contactenos.html\" data-toolbar=\"-mbrBtnMove\">Contactenos para mayor informacion</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-16"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#232323",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vectb-265x176.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "whatsapp",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#41a85f"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "facebook",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#2969b0"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "outlook",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#fac51c"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span></a>",
+          "title1": "Mapa del Sitio",
+          "text1": "<b>You Marketing Site</b><br>Produciendo y Diseñando Tu Marca",
+          "text2": "+503-2292-1646",
+          "text3": "<a href=\"https://www.facebook.com/youmarketingsite/\" target=\"_blank\" class=\"text-info\">@youmarketingsite</a>",
+          "text4": "<a href=\"mailto:info@youmarketingsite.com\" class=\"text-info\">info@youmarketingsite.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-white\">Home</a></li><li><a href=\"Servicios.html\" class=\"text-white\">Nuestros Servicios</a></li><li><a href=\"QuienesSomos.html\" class=\"text-white\">Quienes Somos</a></li><li><a href=\"Empleo.html\" class=\"text-white\">Empleo</a></li><li><a href=\"Contactenos.html\" class=\"text-white\">Contactenos</a></li><li><a href=\"https://mail.zoho.com/biz/customlogin?rd=youmarketingsite.com\" target=\"_blank\" class=\"text-white\">Inicio de Sesion</a></li>",
+          "text6": "<b>Contactos</b><br>Intenacional: +1 (201)703-3091&nbsp;<br>Whatsapp: +503 2292-1646<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Direccion&nbsp;</span></font><br>101040230<br>San Salvador, El Salvador<br><br><b>Soporte:&nbsp;</b>ceo@youmarketingsite.com",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@youmarketingsite.com",
+            "alerts": {
+              "success": "Gracias por Escribirnos Nuestro Equipo se pondra en contacto contigo proximamente, Feliz Dia!!!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#41a85f"
+            },
+            "STRONG": {
+              "color": "#41a85f"
+            },
+            "LI": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            },
+            ".list-group-text": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".list-group-text B": {
+              "color": "#41a85f",
+              "font-size": "14px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "B": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts3-15"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 You Marketing Site. <a href=\"TC.html\">Terminos y Condiciones</a><b>/</b><a href=\"PPW.html\">Politica de Privacidad</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-v"
+        }
+      ]
+    },
+    "Cotizacion.html": {
+      "settings": {
+        "meta_descr": "Diseños de Sitios Web Profesionales y Potentes Enfocados a Buenas Estrategias de Posicionamiento, Mercado y productividad para Organizaciones, Empresas e Instituciones ",
+        "title": "Cotizacion",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1b1b1b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#232323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#232323",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"QuienesSomos.html\">Quienes Somos</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\" aria-expanded=\"false\">Nuestros Servicios</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Empleo.html\">Empleo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\">Contactenos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.facebook.com/youmarketingsite/\" target=\"_blank\">Facebook</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vectb-193x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">You Marketing Site</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-x"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1772x997.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#232323",
+            "overlayOpacity": "0.8"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/stats-1077x765.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<div>Proyectamos Tus Ideas</div>",
+          "text": "<b>Sera un gusto poder plasmar tu idea y darle el mejor enfoque de productividad y rentabilidad a tu Marca, Empresa u Organizacion, por favor llena el formulario con los datos correspondiente y cuentanos lo que necesitas y lo haremos posible.\n<br>\n<br>-Nombre de Marca, Empresa u Organizacion\n<br>\n<br>-Campo donde se Desarrolla\n<br>\n<br>-Color que Representara Tu Marca, Empresa u Organizacion\n<br>\n<br>-Detalles del Servicio que Necesitas.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Cotizacion.html#form1-10\" data-toolbar=\"-mbrBtnMove\">Completar Formulario</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-z",
+          "_styles": {
+            "H3": {
+              "font-size": "30px"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Realiza tu Cotizacion",
+          "subtitle": "Mejoramos Precios de la Competencia, Nos importa Tu Empresa tanto como a Ti!!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
+          "form": {
+            "action": "info@youmarketingsite.com",
+            "alerts": {
+              "success": "Gracias por Escribirnos Nuestro Equipo se pondra en contacto contigo proximamente, Feliz Dia!!!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "TU IDEA:"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-10",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#232323",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vectb-265x176.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "whatsapp",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#41a85f"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "facebook",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#2969b0"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "outlook",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#fac51c"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span></a>",
+          "title1": "Mapa del Sitio",
+          "text1": "<b>You Marketing Site</b><br>Produciendo y Diseñando Tu Marca",
+          "text2": "+503-2292-1646",
+          "text3": "<a href=\"https://www.facebook.com/youmarketingsite/\" target=\"_blank\" class=\"text-info\">@youmarketingsite</a>",
+          "text4": "<a href=\"mailto:info@youmarketingsite.com\" class=\"text-info\">info@youmarketingsite.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-white\">Home</a></li><li><a href=\"Servicios.html\" class=\"text-white\">Nuestros Servicios</a></li><li><a href=\"QuienesSomos.html\" class=\"text-white\">Quienes Somos</a></li><li><a href=\"Empleo.html\" class=\"text-white\">Empleo</a></li><li><a href=\"Contactenos.html\" class=\"text-white\">Contactenos</a></li><li><a href=\"https://mail.zoho.com/biz/customlogin?rd=youmarketingsite.com\" target=\"_blank\" class=\"text-white\">Inicio de Sesion</a></li>",
+          "text6": "<b>Contactos</b><br>Intenacional: +1 (201)703-3091&nbsp;<br>Whatsapp: +503 2292-1646<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Direccion&nbsp;</span></font><br>101040230<br>San Salvador, El Salvador<br><br><b>Soporte:&nbsp;</b>ceo@youmarketingsite.com",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@youmarketingsite.com",
+            "alerts": {
+              "success": "Gracias por Escribirnos Nuestro Equipo se pondra en contacto contigo proximamente, Feliz Dia!!!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#41a85f"
+            },
+            "STRONG": {
+              "color": "#41a85f"
+            },
+            "LI": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            },
+            ".list-group-text": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".list-group-text B": {
+              "color": "#41a85f",
+              "font-size": "14px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "B": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts3-y"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 You Marketing Site. <a href=\"TC.html\">Terminos y Condiciones</a><b>/</b><a href=\"PPW.html\">Politica de Privacidad</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-v"
+        }
+      ]
+    },
+    "Contactenos.html": {
+      "settings": {
+        "meta_descr": "Diseños de Sitios Web Profesionales y Potentes Enfocados a Buenas Estrategias de Posicionamiento, Mercado y productividad para Organizaciones, Empresas e Instituciones ",
+        "title": "Contactenos",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1b1b1b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#232323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#232323",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"QuienesSomos.html\">Quienes Somos</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\" aria-expanded=\"false\">Nuestros Servicios</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Empleo.html\">Empleo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\">Contactenos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.facebook.com/youmarketingsite/\" target=\"_blank\">Facebook</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vectb-193x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">You Marketing Site</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-s"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "50",
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#232323",
+            "overlayOpacity": "0.3"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/vectb-984x654.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "&nbsp;\r<div>Gracias Por Preferirnos</div>",
+          "text": "Agradecemos a nuestros clientes por la confianza que depositan en nuestro Equipo, ERES BIENVENIDO!!\n<br>\n<br>llena el formulario de contacto del enlace y nuestro Equipo se comunicara contigo:",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Formulario de Contacto&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-u",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "DIV": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 You Marketing Site. <a href=\"TC.html\">Terminos y Condiciones</a><b>/</b><a href=\"PPW.html\">Politica de Privacidad</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-v"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Nuestro Ultimo Proyecto",
+          "text": "Un Ministerio con mas de 18 Iglesias en Norte America:",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://drvicmanministries.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DRVIMAN MINISTRIES<br>Visitar Sitio Web</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1g"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#232323",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vectb-265x176.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "whatsapp",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#41a85f"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "facebook",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#2969b0"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "outlook",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#fac51c"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span></a>",
+          "title1": "Mapa del Sitio",
+          "text1": "<b>You Marketing Site</b><br>Produciendo y Diseñando Tu Marca",
+          "text2": "+503-2292-1646",
+          "text3": "<a href=\"https://www.facebook.com/youmarketingsite/\" target=\"_blank\" class=\"text-info\">@youmarketingsite</a>",
+          "text4": "<a href=\"mailto:info@youmarketingsite.com\" class=\"text-info\">info@youmarketingsite.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-white\">Home</a></li><li><a href=\"Servicios.html\" class=\"text-white\">Nuestros Servicios</a></li><li><a href=\"QuienesSomos.html\" class=\"text-white\">Quienes Somos</a></li><li><a href=\"Empleo.html\" class=\"text-white\">Empleo</a></li><li><a href=\"Contactenos.html\" class=\"text-white\">Contactenos</a></li><li><a href=\"https://mail.zoho.com/biz/customlogin?rd=youmarketingsite.com\" target=\"_blank\" class=\"text-white\">Inicio de Sesion</a></li>",
+          "text6": "<b>Contactos</b><br>Intenacional: +1 (201)703-3091&nbsp;<br>Whatsapp: +503 2292-1646<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Direccion&nbsp;</span></font><br>101040230<br>San Salvador, El Salvador<br><br><b>Soporte:&nbsp;</b>ceo@youmarketingsite.com",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@youmarketingsite.com",
+            "alerts": {
+              "success": "Gracias por Escribirnos Nuestro Equipo se pondra en contacto contigo proximamente, Feliz Dia!!!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#41a85f"
+            },
+            "STRONG": {
+              "color": "#41a85f"
+            },
+            "LI": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            },
+            ".list-group-text": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".list-group-text B": {
+              "color": "#41a85f",
+              "font-size": "14px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "B": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts3-t"
+        }
+      ]
+    },
+    "Empleo.html": {
+      "settings": {
+        "meta_descr": "Diseños de Sitios Web Profesionales y Potentes Enfocados a Buenas Estrategias de Posicionamiento, Mercado y productividad para Organizaciones, Empresas e Instituciones ",
+        "title": "Empleo",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1b1b1b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#232323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#232323",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"QuienesSomos.html\">Quienes Somos</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\" aria-expanded=\"false\">Nuestros Servicios</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Empleo.html\">Empleo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\">Contactenos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.facebook.com/youmarketingsite/\" target=\"_blank\">Facebook</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vectb-193x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">You Marketing Site</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-k"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "font-size": "21px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1547x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.4"
+          },
+          "title": "Unete a Nosotros",
+          "text": "El programa de CTE referidos esta enfocado para que puedas ganar dinero extra alrededor de 25% de ganancias por cliente referido y con cierre exitoso Unete a nuestra familia y trabaja desde casa no TE ARREPENTIRAS!!!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Empleo.html#header3-o\" data-toolbar=\"-mbrBtnMove\">Aplicar Ahora</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-m"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Que significa esto?",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-o"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "Al proporcionarnos nuevos clientes nosotros le estaríamos pagando por proyecto referido con cierre exitoso dependiendo del tipo de Sitio Web o Servicio que el cliente solicite (<a href=\"page2.html\">Nuestros Servicios</a>). El periodo de entrega de cada sitio web será en un periodo de 7 a 12 días esto significa que usted y la persona asignada por <b><a href=\"http://www.youmarketingsite.com/vpnport.html\">YOU MARKETING SITE</a></b> El Salvador realizarían la entrega del sitio ya que usted fue el medio por el cual el cliente nos contactó y para demostrarle a usted transparencia en el cobro total por la web ya que de eso dependerá su comisión:",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-p",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Este sería un escenario de un cierre exitoso; nosotros a diferencia de la competencia que por cada sitio cobran de 800 a 1000 dólares en adelante; nosotros tenemos precios sin comparación alguna frente a las demás compañías ya que nuestros precios son sumamente accesibles (depende del tipo de proyecto) ademas debemos tomar en cuenta la gran cantidad de beneficios que le daríamos a nuestros clientes; Usted recibirá el 25% del costo total del proyecto siendo así que si un Sitio Web tiene un costo de $350 dólares su pago por el proyecto referido sería $70.00 dólares y unicamente solo por referirle, claro usted tambien podra relacionarse con el cliente como ejecutivo freelance de YOU MARKETING SITE El Salvador.\n</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-q",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Si nuestro equipo de reclutamiento ve capacidad y rentabilidad en su persona podria luego de un tiempo aplicar como&nbsp;</p><p><span style=\"font-size: 1.07rem;\"><b>EJECUTIVO DE VENTAS o COMUNITY MANAGER.</b>&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><div><b>PARA APLICAR LLENA EL SIGUIENTE FORMULARIO Y NUESTRO EQUIPO TE CONTACTARA:</b></div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-r",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubTitle": false,
+            "labelsColor": "#232323",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
+          "form": {
+            "action": "info@youmarketingsite.com",
+            "alerts": {
+              "success": "Gracias por Escribirnos Nuestro Equipo se pondra en contacto contigo proximamente, Feliz Dia!!!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-n",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#232323",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vectb-265x176.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "whatsapp",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#41a85f"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "facebook",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#2969b0"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "outlook",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#fac51c"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span></a>",
+          "title1": "Mapa del Sitio",
+          "text1": "<b>You Marketing Site</b><br>Produciendo y Diseñando Tu Marca",
+          "text2": "+503-2292-1646",
+          "text3": "<a href=\"https://www.facebook.com/youmarketingsite/\" target=\"_blank\" class=\"text-info\">@youmarketingsite</a>",
+          "text4": "<a href=\"mailto:info@youmarketingsite.com\" class=\"text-info\">info@youmarketingsite.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-white\">Home</a></li><li><a href=\"Servicios.html\" class=\"text-white\">Nuestros Servicios</a></li><li><a href=\"QuienesSomos.html\" class=\"text-white\">Quienes Somos</a></li><li><a href=\"Empleo.html\" class=\"text-white\">Empleo</a></li><li><a href=\"Contactenos.html\" class=\"text-white\">Contactenos</a></li><li><a href=\"https://mail.zoho.com/biz/customlogin?rd=youmarketingsite.com\" target=\"_blank\" class=\"text-white\">Inicio de Sesion</a></li>",
+          "text6": "<b>Contactos</b><br>Intenacional: +1 (201)703-3091&nbsp;<br>Whatsapp: +503 2292-1646<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Direccion&nbsp;</span></font><br>101040230<br>San Salvador, El Salvador<br><br><b>Soporte:&nbsp;</b>ceo@youmarketingsite.com",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@youmarketingsite.com",
+            "alerts": {
+              "success": "Gracias por Escribirnos Nuestro Equipo se pondra en contacto contigo proximamente, Feliz Dia!!!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#41a85f"
+            },
+            "STRONG": {
+              "color": "#41a85f"
+            },
+            "LI": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            },
+            ".list-group-text": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".list-group-text B": {
+              "color": "#41a85f",
+              "font-size": "14px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "B": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts3-l"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 You Marketing Site. <a href=\"TC.html\">Terminos y Condiciones</a><b>/</b><a href=\"PPW.html\">Politica de Privacidad</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-v"
+        }
+      ]
+    },
+    "QuienesSomos.html": {
+      "settings": {
+        "meta_descr": "Diseños de Sitios Web Profesionales y Potentes Enfocados a Buenas Estrategias de Posicionamiento, Mercado y productividad para Organizaciones, Empresas e Instituciones ",
+        "title": "Quienes Somos",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1b1b1b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#232323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#232323",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"QuienesSomos.html\">Quienes Somos</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\" aria-expanded=\"false\">Nuestros Servicios</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Empleo.html\">Empleo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\">Contactenos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.facebook.com/youmarketingsite/\" target=\"_blank\">Facebook</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vectb-193x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">You Marketing Site</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-5"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "46",
+            "paddingTop": "6",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1651x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#232323",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/posicionamiento-web-barcelona-650x592.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Tu Mejor Opcion en Marketing",
+          "text": "El proyecto <b>YOU MARKETING SITE</b>  nace de la necesidad de pequeñas y grandes empresas asi como de profesionales independientes  que buscan la mejor alternativa en Marketing Digital y Publicitario manteniendo estandares de calidad y fiabilidad. \n<br>\n<br>En <b>YOU MARKETING SITE</b>  brindamos nuestros servicios para ayudar a nuestros clientes a poder tener mayor productividad y rentabilidad de tu Marca o Empresa, Poseemos las mejores herramientas de diseño y posicionamiento ademas de estrategias de mercado para hacer crecer tu marca o negocio. Contamos con profesionales que realizaran todo el procedimiento y construcción de la manera correcta, ademas el tiempo de construcción del sitio web sera de manera rápida y eficiente para que la conclucion y entrega del sitio en la mayor brevedad posible",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Servicios.html\" data-toolbar=\"-mbrBtnMove\">Nuestros Servicios</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-9",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "46px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Se parte de Nuestro Equipo",
+          "text": "Gana Dinero Extra como Ejecutivo de Ventas &nbsp;Freelance hasta un 50% por proyecto",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Empleo.html\" data-toolbar=\"-mbrBtnMove\">Aplicar a Empleo</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-13"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#232323",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vectb-265x176.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "whatsapp",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#41a85f"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "facebook",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#2969b0"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "outlook",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#fac51c"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span></a>",
+          "title1": "Mapa del Sitio",
+          "text1": "<b>You Marketing Site</b><br>Produciendo y Diseñando Tu Marca",
+          "text2": "+503-2292-1646",
+          "text3": "<a href=\"https://www.facebook.com/youmarketingsite/\" target=\"_blank\" class=\"text-info\">@youmarketingsite</a>",
+          "text4": "<a href=\"mailto:info@youmarketingsite.com\" class=\"text-info\">info@youmarketingsite.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-white\">Home</a></li><li><a href=\"Servicios.html\" class=\"text-white\">Nuestros Servicios</a></li><li><a href=\"QuienesSomos.html\" class=\"text-white\">Quienes Somos</a></li><li><a href=\"Empleo.html\" class=\"text-white\">Empleo</a></li><li><a href=\"Contactenos.html\" class=\"text-white\">Contactenos</a></li><li><a href=\"https://mail.zoho.com/biz/customlogin?rd=youmarketingsite.com\" target=\"_blank\" class=\"text-white\">Inicio de Sesion</a></li>",
+          "text6": "<b>Contactos</b><br>Intenacional: +1 (201)703-3091&nbsp;<br>Whatsapp: +503 2292-1646<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Direccion&nbsp;</span></font><br>101040230<br>San Salvador, El Salvador<br><br><b>Soporte:&nbsp;</b>ceo@youmarketingsite.com",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@youmarketingsite.com",
+            "alerts": {
+              "success": "Gracias por Escribirnos Nuestro Equipo se pondra en contacto contigo proximamente, Feliz Dia!!!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#41a85f"
+            },
+            "STRONG": {
+              "color": "#41a85f"
+            },
+            "LI": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            },
+            ".list-group-text": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".list-group-text B": {
+              "color": "#41a85f",
+              "font-size": "14px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "B": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts3-6"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 You Marketing Site. <a href=\"TC.html\">Terminos y Condiciones</a><b>/</b><a href=\"PPW.html\">Politica de Privacidad</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-v"
+        }
+      ]
+    },
+    "Servicios.html": {
+      "settings": {
+        "meta_descr": "Diseños de Sitios Web Profesionales y Potentes Enfocados a Buenas Estrategias de Posicionamiento, Mercado y productividad para Organizaciones, Empresas e Instituciones ",
+        "title": "Nuestros Servicios",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1b1b1b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#232323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#232323",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"QuienesSomos.html\">Quienes Somos</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\" aria-expanded=\"false\">Nuestros Servicios</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Empleo.html\">Empleo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\">Contactenos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.facebook.com/youmarketingsite/\" target=\"_blank\">Facebook</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vectb-193x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">You Marketing Site</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-a"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px"
+            },
+            ".lead P": {
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1668x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Somos Tu Mejor Opcion",
+          "text": "<p>CONSTRUCCION Y DISEÑO DE SITIOS WEB<b>/</b>COMUNITY MANAGER REDES SOCIALES<b>/</b>POSICIONAMIENTO Y ESTADISTICAS WEB<b>/</b>CORREO ELECTRONICO PERSONALIZADO<b>/</b>DISEÑO E IMPRESION DE MERCHANDISING</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/pagina-web-slider1-1400x906.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "CONSTRUCCION Y DISEÑO DE SITIOS WEB",
+          "text": "Construimos, Diseñamos y Programamos tu sitio web, tomando en cuenta siempre los estandares de calidad necesarios , ademas de brindarte el mejor Hosting para tu sitio web, te brindamos soporte y actualizacion a tu servicio 24/7, proporcionado por personal calificado, Dominio COM/NET/ORG incluido, ademas tu sitio estara optimizado en su version para moviles.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"Cotizacion.html\" data-toolbar=\"-mbrBtnMove\">Realizar Cotizacion</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-g",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/redes-sociales-final-667x489.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "COMUNITY MANAGER REDES SOCIALES",
+          "text": "Ademas proporcionamos el servico de integracion social media con el cual nuestro equipo construira y mantendra actualizadas Fanpages de tu Empresa en redes sociales o App de mayor afluencia de personas y asi lograras que tu empresa tenga mayor presencia en los medios digitales.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Cotizacion.html\" data-toolbar=\"-mbrBtnMove\">Realizar Cotizacion</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-h",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/posicionamiento-web-barcelona-650x592.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "POSICIONAMIENTO Y ESTADISTICAS WEB",
+          "text": "Tu sitio web estara posicionado en los buscadores mas reconocinos en internet Google, Yahoo y Bing, ademas te brindaremos actualizaciones Mensuales a tus metadatos para que de esta manera tus clientes siempre puedan encontrarte, ademas te ayudaremos a compartir tu sitio para que tenga un mejor alcance de mercado.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Cotizacion.html\" data-toolbar=\"-mbrBtnMove\">Realizar Cotizacion</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-i",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/correo-corporativo-slider-1354x1335.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "CORREO ELECTRONICO PERSONALIZADO",
+          "text": "Te Brindamos Correo Electronico para que poseeas la mejor presentacion en el mercado, ya que con tu dominio te entregamos cuentas a tu preferencia y con terminacion ¨ @tuempresa.com ¨ de esta manera tu empresa tendra el impacto al momento que envios emails a tus clientes. ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Cotizacion.html\" data-toolbar=\"-mbrBtnMove\">Realizar Cotizacion</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-j",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/plataforma-streaming-461x300.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "RADIO Y TV ONLINE STREAMING",
+          "text": "Te ayudamos a configurar y a transmitir tu programacion via radio o tv streaming con ayuda de plataformas en internet, ademas de configurar tu <b>RADIO o TV</b> en su propio Portal (<b>Sitio Web</b>) y <b>App para Android.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Cotizacion.html\" data-toolbar=\"-mbrBtnMove\">Realizar Cotizacion</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1n",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_inherit": "features4",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "briefcase",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "linegraph",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            "H4": {
+              "font-size": "16px"
+            }
+          },
+          "title1": "Sitio Movil Automatizado",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Tu Sitio Web tendra su propia version movil para que tus clientes puedan visitarte desde una pc o su smartphone&nbsp;",
+          "title2": "Diseño Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Nuestros Sitios se Diseñan y crean para que se adapten a todo Tipo de Dispositivo Movil desde PC a Dispositivos portatiles.",
+          "title3": "Tu Mejor Carta de Presentacion",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Tu Sitio Web es la carta de presentacion de tu empresaen internet y digitalmete, es tu oficina en la web.",
+          "title4": "El Mejor Pocisionamiento en Internet",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Te posicionamos en todos los buscadores Google, Yahoo, Bing para que los clientes te encuentren facilmente.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "47",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ghqwy-1-700x295.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Diseño Grafico Estrategico",
+          "text": "Diseño e Impresion de <b>Material Publicitario</b>, ademas de Material para Merchandising:\n<br>\n<br><b>-Tarjetas de Presentacion, Volantes, Carnet, Folletos, Camisas.\n<br></b>\n<br><b>-Objetos de tu preferencia con la impresion de tu Marca.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Cotizacion.html\" data-toolbar=\"-mbrBtnMove\">Realizar Cotizacion</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-w",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "15px"
+            },
+            "H3": {
+              "text-align": "left",
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#232323",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vectb-265x176.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "whatsapp",
+              "family": "socicon",
+              "active": true,
+              "size": "25",
+              "color": "#41a85f"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "socicon",
+              "active": true,
+              "size": "25",
+              "color": "#2969b0"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "outlook",
+              "size": "25",
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "color": "#fac51c"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(255, 255, 255);\"></span></a>",
+          "title1": "Mapa del Sitio",
+          "text1": "<b>You Marketing Site</b><br>Produciendo y Diseñando Tu Marca",
+          "text2": "+503-2292-1646",
+          "text3": "<a href=\"https://www.facebook.com/youmarketingsite/\" target=\"_blank\" class=\"text-info\">@youmarketingsite</a>",
+          "text4": "<a href=\"mailto:info@youmarketingsite.com\" class=\"text-info\">info@youmarketingsite.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-white\">Home</a></li><li><a href=\"Servicios.html\" class=\"text-white\">Nuestros Servicios</a></li><li><a href=\"QuienesSomos.html\" class=\"text-white\">Quienes Somos</a></li><li><a href=\"Empleo.html\" class=\"text-white\">Empleo</a></li><li><a href=\"Contactenos.html\" class=\"text-white\">Contactenos</a></li><li><a href=\"https://mail.zoho.com/biz/customlogin?rd=youmarketingsite.com\" target=\"_blank\" class=\"text-white\">Inicio de Sesion</a></li>",
+          "text6": "<b>Contactos</b><br>Intenacional: +1 (201)703-3091&nbsp;<br>Whatsapp: +503 2292-1646<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Direccion&nbsp;</span></font><br>101040230<br>San Salvador, El Salvador<br><br><b>Soporte:&nbsp;</b>ceo@youmarketingsite.com",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@youmarketingsite.com",
+            "alerts": {
+              "success": "Gracias por Escribirnos Nuestro Equipo se pondra en contacto contigo proximamente, Feliz Dia!!!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#41a85f"
+            },
+            "STRONG": {
+              "color": "#41a85f"
+            },
+            "LI": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            },
+            ".list-group-text": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".list-group-text B": {
+              "color": "#41a85f",
+              "font-size": "14px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "B": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts3-b"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 You Marketing Site. <a href=\"TC.html\">Terminos y Condiciones</a><b>/</b><a href=\"PPW.html\">Politica de Privacidad</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-v"
+        }
+      ]
+    }
+  }
+}
