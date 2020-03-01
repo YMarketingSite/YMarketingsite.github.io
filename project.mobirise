@@ -40,7 +40,10 @@
     "favicon": "@PROJECT_PATH@/assets/images/vect-2-128x85.png",
     "noImageResize": "",
     "sitemapSwitcher": "on",
-    "imageResize": true
+    "imageResize": true,
+    "google-analytics": "<!-- Inicio. radio hosting USAstreams.com html5 player -->\n<!-- Licencia: GRATIS-XDF4543ERF -->\n<div style = \"bottom: 0;display: flex;height: 70px;left: 0;position: fixed;right: 0;width: 100%;z-index: 1500;overflow: hidden;\" ><iframe name=\"contenedorPlayer\" class=\"cuadroBordeado\" allow=\"autoplay\" width=\"100%\" height=\"78px\" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no  src=\"http://cp.usastreams.com/html5-player-barra-fino.aspx?stream=http://82.145.59.200:9329/;&fondo=05&formato=ogg&color=14&titulo=2&autoStart=1&vol=5&nombre=RADIO+SANTA+BIBLIA\"></iframe></div>\n<!-- En players responsive puede modificar el weight a sus necesidades, Por favor no modifique el resto del codigo para poder seguir ofreciendo este servicio gratis  -->\n<!-- Fin. USAstreams.com html5 player -->",
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
